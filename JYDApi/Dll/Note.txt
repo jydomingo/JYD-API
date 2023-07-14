@@ -1,0 +1,1 @@
+Please copy/paste dll file to Assembly\Debug\net6.0\ folder

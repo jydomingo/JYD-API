@@ -1,0 +1,10 @@
+{
+  "Instance": "https://stradcom.net.ph/",
+  "AudienceId": "150a9e82-f051-456b-8bee-5a635ed08c5a",
+  "AuthorityId": "44ee1c8b-77a2-40d8-9c69-0f46de92f606",
+  "SecretKey": "Bey8Q~4yp7aHZS5vRcrFNDZPnr-jCNuQt7PJzbUJ",
+  "Expiry": {
+    "Value": "1",
+    "Format": "m"
+  }
+}

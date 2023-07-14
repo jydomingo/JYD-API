@@ -1,0 +1,10 @@
+{
+  "MailSmtp": {
+    "Host": "192.168.2.7",
+    "Port": 25,
+    "DisplayName": "No_Reply",
+    "Username": "kbroque@stradcom.net.ph",
+    "Password": "",
+    "EnableSsl": false
+  }
+}
